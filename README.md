@@ -28,7 +28,7 @@ Plugin to execute Bash commands and programs as Actions on your current Images f
 - Linux or OsX.
 
 
-# Description
+### Description
 
 <details>
     The GUI has on top your current opened image files on Krita with its full path,<br>
