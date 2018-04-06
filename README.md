@@ -1,6 +1,7 @@
 # krita-plugin-bashactions
 
 Plugin to execute Bash commands and programs as Actions on your current Images from Krita.
+Pull Requests are welcome!.
 
 ![screenshot](krita_plugin0.png)
 
