@@ -16,7 +16,8 @@ Plugin to execute Bash commands and programs as Actions on your current Images f
 
 **Uninstall:**
 
-- Delete all files from `~/.local/share/krita/pykrita/bashactions/` and restart Krita.
+- Go to `Settings → Configure Krita → Python Plugin Manager → BashActions`, Disable it and restart Krita.
+- Delete all files from `~/.local/share/krita/pykrita/bashactions/`.
 
 
 # Requisites
