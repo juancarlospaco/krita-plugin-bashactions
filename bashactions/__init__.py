@@ -7,21 +7,21 @@
 
 import sys
 import time
+
 from datetime import datetime
-from time import sleep
-from pathlib import Path
 from getpass import getuser
+from pathlib import Path
 from shutil import which
+from time import sleep
 from webbrowser import open_new_tab
 
-from PyQt5.QtCore import QProcess
-from PyQt5.QtCore import Qt
+from PyQt5.QtCore import QProcess, Qt
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import (QAbstractItemView, QAbstractScrollArea, QCheckBox,
-                             QDialog, QDialogButtonBox, QFormLayout, QFrame,
-                             QListWidget, QMessageBox, QPlainTextEdit, QLabel,
-                             QPushButton, QVBoxLayout, QWidget, QSpinBox,
-                             QComboBox, QFileDialog, QHBoxLayout)
+                             QComboBox, QDialog, QDialogButtonBox, QFileDialog,
+                             QFormLayout, QFrame, QHBoxLayout, QLabel,
+                             QListWidget, QMessageBox, QPlainTextEdit,
+                             QPushButton, QSpinBox, QVBoxLayout, QWidget)
 
 import krita
 
@@ -30,7 +30,7 @@ __version__ = '1.0.0'
 __license__ = ' GPLv3+ LGPLv3+ '
 __author__ = ' juancarlos '
 __email__ = ' juancarlospaco@gmail.com '
-__url__ = 'https://github.com/juancarlospaco'
+__url__ = 'https://github.com/juancarlospaco/krita-plugin-bashactions#krita-plugin-bashactions'
 sys.dont_write_bytecode = True
 
 
