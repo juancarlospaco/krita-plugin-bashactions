@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-Krita-Manual=documentation.html
+X-KDE-Library=bashactions
+Name=bashactions
+Name[en]=bashactions
+Name[es]=bashactions
+Comment=Execute Bash scripts and commands on selected documents
+Comment[en]=Execute Bash scripts and commands on selected documents
+Comment[es]=Ejecuta scripts y comandos Bash en los documentos seleccionados
